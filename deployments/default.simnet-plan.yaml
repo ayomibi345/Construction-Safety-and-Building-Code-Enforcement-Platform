@@ -54,4 +54,9 @@ plan:
             emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
             path: contracts/materials-quality-verification.clar
             clarity-version: 2
+        - emulated-contract-publish:
+            contract-name: occupancy-permit-issuance
+            emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
+            path: contracts/occupancy-permit-issuance.clar
+            clarity-version: 2
       epoch: "2.5"
